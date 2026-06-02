@@ -63,8 +63,14 @@ In simple terms:
 The "screenshots" folder contains:
 
 - GitHub Account Screenshot
+  <img width="1876" height="888" alt="Screenshot 2026-06-02 213252" src="https://github.com/user-attachments/assets/12fc6d3d-48ff-4b1e-af0b-da3e4a551e76" />
+
 - Kaggle Account Screenshot
+  <img width="720" height="1611" alt="WhatsApp Image 2026-06-02 at 10 26 33 PM" src="https://github.com/user-attachments/assets/d93bfa92-5e77-4e5a-8916-d6abe7bc8244" />
+
 - Google Colab Notebook Screenshot
+  <img width="1906" height="868" alt="Screenshot 2026-06-02 213416" src="https://github.com/user-attachments/assets/bce605b2-2837-417b-a3e0-7be540b90cb7" />
+
 
 ---
 
