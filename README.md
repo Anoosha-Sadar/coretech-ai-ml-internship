@@ -1,2 +1,77 @@
-# coretech-ai-ml-internship
-AI/ML Internship Task and Learning
+CoreTech AI/ML Internship
+
+Task 01: Account Setup and AI/ML Introduction
+
+Intern Information
+
+Name: Anoosha Sadar
+Education: 3rd Year IT Student at Shaheed Benazir Bhutto University
+City: Mehrabpur, Sindh, Pakistan
+
+---
+
+Introduction
+
+I am a 3rd Year IT student with a strong interest in Artificial Intelligence and Machine Learning. I enjoy learning modern technologies and building projects related to programming, data analysis, and machine learning. My goal is to develop intelligent systems that can solve real-world problems and improve efficiency through data-driven solutions.
+
+---
+
+What is Artificial Intelligence (AI)?
+
+Artificial Intelligence (AI) is the ability of machines to perform tasks that normally require human intelligence, such as learning, reasoning, problem-solving, and decision-making.
+
+---
+
+What is Machine Learning (ML)?
+
+Machine Learning (ML) is a branch of AI that enables computers to learn from data and improve their performance without being explicitly programmed.
+
+---
+
+What is Deep Learning (DL)?
+
+Deep Learning (DL) is a subset of Machine Learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+---
+
+Difference Between AI, ML, and DL
+
+Artificial Intelligence (AI) is the broad field of creating intelligent machines. Machine Learning (ML) is a subset of AI that allows systems to learn from data. Deep Learning (DL) is a subset of ML that uses deep neural networks to solve complex problems such as image recognition, speech recognition, and natural language processing. In simple terms, AI is the main concept, ML is a method used to achieve AI, and DL is an advanced form of ML.
+
+---
+
+How AI/ML Can Help CoreTech Innovation
+
+* Automate repetitive tasks and processes.
+* Analyze large amounts of data efficiently.
+* Improve customer support through intelligent chatbots.
+* Predict trends and outcomes using data analytics.
+* Support better decision-making with AI-powered insights.
+
+---
+
+Screenshots
+
+The screenshots folder contains:
+
+* GitHub Account Screenshot
+* Kaggle Account Screenshot
+* Google Colab Notebook Screenshot
+
+---
+
+Repository Structure
+
+coretech-ai-ml-internship/
+│
+├── README.md
+│
+└── Task-01/
+    ├── task_01_setup_and_intro.ipynb
+    ├── github_setup.png
+    ├── kaggle_setup.png
+    └── colab_setup.png
+
+Submission
+
+This repository contains the completed Task 01 deliverables for the CoreTech AI/ML Internship Program.
