@@ -1,0 +1,7 @@
+CustomerID,Age,Gender,City,Income,Purchased
+1,25,Male,Karachi,50000.0,Yes
+2,30,Female,Hyderabad,60000.0,No
+3,22,Male,Karachi,,Yes
+4,35,Female,Sukkur,70000.0,No
+4,35,Female,Sukkur,70000.0,No
+5,28,Male,Nawabshah,55000.0,Yes
