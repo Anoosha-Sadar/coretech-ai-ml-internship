@@ -1,18 +1,22 @@
 # Task 05: Supervised Learning - Classification
 
- Objective
-The objective of this task is to build and evaluate classification models for predicting employee attrition using machine learning techniques.
+## Objective
+The objective of this task is to build and compare multiple classification models to predict employee attrition using machine learning techniques.
 
-Dataset
-Dataset Used: IBM HR Analytics Employee Attrition & Performance
+---
 
-File Name:
-WA_Fn-UseC_-HR-Employee-Attrition.csv
+## Dataset Information
 
-Target Variable:
-Attrition
+**Dataset:** IBM HR Analytics Employee Attrition & Performance
 
-Tools and Libraries
+**File Name:** WA_Fn-UseC_-HR-Employee-Attrition.csv
+
+**Target Variable:** Attrition
+
+---
+
+## Tools and Libraries Used
+
 - Python
 - Google Colab
 - Pandas
@@ -21,32 +25,47 @@ Tools and Libraries
 - Seaborn
 - Scikit-learn
 
- Steps Performed
-1. Data Loading
+---
+
+## Models Implemented
+
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest Classifier
+
+---
+
+## Steps Performed
+
+### 1. Data Loading
 - Loaded the dataset into a Pandas DataFrame.
 
 ### 2. Data Preprocessing
-- Checked dataset structure.
-- Encoded categorical variables using Label Encoding.
-- Selected features and target variable.
+- Checked dataset information.
+- Encoded categorical features using Label Encoding.
 
-### 3. Train-Test Split
-- Split the dataset into 80% training data and 20% testing data.
+### 3. Feature Selection
+- Selected input features (X).
+- Selected target variable (y).
 
-### 4. Model Training
-The following classification models were trained:
-- Logistic Regression
-- Decision Tree Classifier
-- Random Forest Classifier
+### 4. Train-Test Split
+- Split data into 80% training and 20% testing sets.
 
-### 5. Model Evaluation
+### 5. Model Training
+- Trained Logistic Regression model.
+- Trained Decision Tree model.
+- Trained Random Forest model.
+
+### 6. Model Evaluation
 Evaluated each model using:
 - Accuracy Score
 - Confusion Matrix
 - Classification Report
 
-### 6. Visualization
-- Generated a Confusion Matrix Heatmap for the best-performing model.
+### 7. Visualization
+- Generated Confusion Matrix Heatmap for the best-performing model.
+
+---
 
 ## Results
 
@@ -56,13 +75,28 @@ Evaluated each model using:
 | Decision Tree | 0.765306 |
 | Random Forest | 0.867347 |
 
+---
+
 ## Best Model
-Random Forest achieved the highest accuracy and provided the most reliable predictions on the test dataset.
+
+Random Forest achieved the highest accuracy among all models and provided the most reliable predictions. Therefore, it was selected as the best-performing model.
+
+---
+
+## Performance Analysis
+
+Three classification algorithms were trained and evaluated on the IBM HR Analytics dataset. Random Forest outperformed Logistic Regression and Decision Tree in terms of accuracy and overall classification performance. The confusion matrix showed fewer misclassifications, making Random Forest the most suitable model for predicting employee attrition.
+
+---
 
 ## Files Included
+
 - Task5_Classification.ipynb
 - confusion_matrix.png
 - README.md
 
+---
+
 ## Conclusion
-Three classification algorithms were implemented and compared. Random Forest performed the best among all models, making it the most suitable model for predicting employee attrition in this dataset.
+
+This task demonstrated the implementation and comparison of multiple classification algorithms. Among the tested models, Random Forest produced the best results and was selected as the final model for employee attrition prediction.
