@@ -1,0 +1,31 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment
+1,Ali,Web Development,Excellent service and fast delivery,5,Positive
+2,Sara,SEO,Very professional team and great support,5,Positive
+3,Ahmed,Marketing,Good communication throughout the project,4,Positive
+4,Ayesha,Web Development,Loved the final website design,5,Positive
+5,Usman,SEO,Great results in search rankings,5,Positive
+6,Zara,Marketing,Very helpful and responsive staff,4,Positive
+7,Hassan,Web Development,Project completed before deadline,5,Positive
+8,Maria,SEO,Happy with overall service quality,4,Positive
+9,Bilal,Marketing,Quality work delivered as promised,5,Positive
+10,Fatima,Web Development,Highly recommended company,5,Positive
+11,Ali,SEO,Service was acceptable and okay,3,Neutral
+12,Sara,Marketing,Average experience overall,3,Neutral
+13,Ahmed,Web Development,Nothing special but satisfactory,3,Neutral
+14,Ayesha,SEO,Results took longer than expected,3,Neutral
+15,Usman,Marketing,Support was average,3,Neutral
+16,Zara,Web Development,Website works fine without issues,3,Neutral
+17,Hassan,SEO,Moderate improvement in traffic,3,Neutral
+18,Maria,Marketing,Communication could be better,3,Neutral
+19,Bilal,Web Development,Satisfactory project experience,3,Neutral
+20,Fatima,SEO,Neither good nor bad service,3,Neutral
+21,Ali,Marketing,Poor communication and project delays,2,Negative
+22,Sara,Web Development,Not satisfied with the website quality,1,Negative
+23,Ahmed,SEO,Ranking results were disappointing,2,Negative
+24,Ayesha,Marketing,Customer support was terrible,1,Negative
+25,Usman,Web Development,Too many bugs in the project,1,Negative
+26,Zara,SEO,Waste of money and time,1,Negative
+27,Hassan,Marketing,Very poor performance and service,2,Negative
+28,Maria,Web Development,Delivery was extremely late,1,Negative
+29,Bilal,SEO,Unprofessional behavior from the team,2,Negative
+30,Fatima,Marketing,Overall bad experience and support,1,Negative
