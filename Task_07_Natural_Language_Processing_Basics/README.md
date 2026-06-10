@@ -177,6 +177,6 @@ This project successfully demonstrates fundamental NLP techniques including text
 
 ---
 
-## Author
+## Intern
 
-Your Name
+Anoosha Sadar
