@@ -100,6 +100,15 @@ Task_09/
 ```
 
 ---
+### Impact of Hyperparameter Tuning on Model Performance
+
+The baseline Logistic Regression model achieved an accuracy of 94.29% before hyperparameter tuning. After applying GridSearchCV, the optimized model achieved the same accuracy score.
+
+Although the overall accuracy remained unchanged, the optimization process successfully evaluated multiple parameter combinations and confirmed that the selected model configuration was already operating near its optimal performance level.
+
+The primary contribution of hyperparameter tuning in this project was model validation rather than accuracy improvement. The process verified the effectiveness of the model parameters and increased confidence in the reliability of the final solution.
+
+Furthermore, the cross-validation results produced an average score of 96.86%, demonstrating that the model maintained strong and consistent performance across multiple data partitions. This confirms that the model is stable, reliable, and capable of generalizing effectively to unseen data.
 
 ## Conclusion
 
