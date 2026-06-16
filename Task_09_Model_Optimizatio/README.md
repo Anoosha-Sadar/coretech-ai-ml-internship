@@ -2,8 +2,8 @@
 
 ## Intern Information
 
-**Name:** Anoosha Sadar
-**Education:** 2nd Year Information Technology Student
+- **Name:** Anoosha Sadar
+- **Education:** 2nd Year Information Technology Student
 
 ---
 
