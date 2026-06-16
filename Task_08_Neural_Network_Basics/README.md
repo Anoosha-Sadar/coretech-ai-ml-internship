@@ -1,9 +1,9 @@
 # Task 08: Neural Network Basics with Keras — Client Retention Prediction
 
-## Intern Information
+## Intern 
 
-**Name:** Anoosha Sadar
-**Education:** 2nd Year Information Technology Student
+- **Name:** Anoosha Sadar
+- **Education:** 2nd Year Information Technology Student
 
 ---
 
