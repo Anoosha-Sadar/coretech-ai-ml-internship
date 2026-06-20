@@ -241,9 +241,7 @@ SentimentAI-Pro/
 │
 ├── Task.ipynb
 ├── app.py
-├── sentiment_model.pkl
-├── tfidf_vectorizer.pkl
-├── label_encoder.pkl
+├── Pickle files (Google Drive Link)
 ├── requirements.txt
 ├── README.md
 │
