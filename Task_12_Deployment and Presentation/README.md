@@ -244,9 +244,8 @@ SentimentAI-Pro/
 ├── Pickle files (Google Drive Link)
 ├── requirements.txt
 ├── README.md
-│
-├── Streamlit/
-│   ├── Interface.pdf
+├── Streamlit
+│   ├── Interface.pdf(Google Drive Link)
 │
 ├── Dataset/
 │   ├── twitter_training.csv
