@@ -233,6 +233,44 @@ Machine Learning:
 * Cross Validation
 
 ---
+#  Running the Application Locally
+
+Follow these steps to run the project on your local machine.
+
+## Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/your-username/SentimentAI-Pro.git
+cd SentimentAI-Pro
+```
+
+## Step 2: Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Step 3: Download the Model Files
+
+Due to GitHub file size limitations, the trained pickle files are provided through the Google Drive link included in this repository.
+
+Download the files and place them inside the project directory before running the application.
+
+## Step 4: Launch the Application
+
+```bash
+streamlit run app.py
+```
+
+## Step 5: Open the Browser
+
+If the application does not open automatically, visit:
+
+```text
+http://localhost:8501
+```
+
+---
 
 # 📁 Project Structure
 
@@ -312,7 +350,20 @@ Specializations:
 * Business Intelligence
 
 ---
+# Future Enhancements
 
+Future versions of this platform may include:
+
+* Integration with CRM systems.
+* Real-time social media sentiment monitoring.
+* Cloud deployment using Streamlit Community Cloud or Microsoft Azure.
+* Explainable AI using SHAP values.
+* Multi-language sentiment analysis.
+* Deep Learning models such as LSTM and BERT.
+* Automated executive reporting and email notifications.
+
+These enhancements will further improve scalability, usability, and business value.
+---
 # Conclusion
 
 SentimentAI Pro successfully demonstrates the complete Machine Learning lifecycle, including data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, optimization, deployment, and business intelligence generation.
